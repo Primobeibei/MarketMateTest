@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "458877879860",
+    "project_id": "marketmate-7a457",
+    "storage_bucket": "marketmate-7a457.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458877879860:android:705851c5edb60e08742c61",
+        "android_client_info": {
+          "package_name": "com.egci428.marketmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458877879860-pebmtogs149fu9aqo6ldcoh1rr31kc6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYZNTruZblU9JIrwFp2Ks_H-1CAuaKMBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458877879860-pebmtogs149fu9aqo6ldcoh1rr31kc6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
